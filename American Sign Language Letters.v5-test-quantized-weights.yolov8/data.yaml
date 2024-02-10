@@ -1,0 +1,5 @@
+train: /Users/ryanoliver/PycharmProjects/AS_L/American Sign Language Letters.v5-test-quantized-weights.yolov8/train/images
+val: /Users/ryanoliver/PycharmProjects/AS_L/American Sign Language Letters.v5-test-quantized-weights.yolov8/valid/images
+test: /Users/ryanoliver/PycharmProjects/AS_L/American Sign Language Letters.v5-test-quantized-weights.yolov8/test/images
+nc: 26
+names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
